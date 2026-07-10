@@ -9,4 +9,12 @@ npm install discord.js dotenv canvas
 Don't forget to deploy slash commands 
 node deploy-commands.js
 
+Don't forget to create .env 
+
+TOKEN=
+CLIENT_ID= 
+
+Without the ""
+
+Enjoy !!
 
